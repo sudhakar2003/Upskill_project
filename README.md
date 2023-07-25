@@ -1,5 +1,6 @@
 # Crop and Weed detection
 **Introduction**
+
 Crop and weed detection is a vital component of modern precision agriculture, where advanced technologies are used to monitor and manage agricultural fields efficiently. It involves the automated identification and differentiation of crops (desired plants) from weeds (unwanted plants) in the field. By accurately detecting and classifying crops and weeds, farmers can make informed decisions to optimize resource allocation, implement targeted interventions, and increase overall agricultural productivity.
 
 **1. Importance and Benefits:**
